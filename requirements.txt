@@ -1,2 +1,4 @@
 opencv-python~=4.5.5.64
 numpy~=1.22.4
+rpi_python_drv8825~=0.3
+RPi.GPIO~=0.7.1
